@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project of The Odin Project curriculum, where the basic knowledge of html is put into practice. At the end of this first part of the project we will have a basic web page showing recipes.
